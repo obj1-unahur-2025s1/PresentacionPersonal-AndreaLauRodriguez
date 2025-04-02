@@ -9,7 +9,7 @@ Tengo dos hijos, uno de los cuales es alumno también de la Unahur.
 Cuando terminé la secundaria, empecé a estudiar la Licenciatura en Matemática en la Facultad de Ciencias Exáctas de la UBA y luego me pasé a la Licenciatura en Ciencias de la Computación. Al promediar la carrera, tuve que abandonar por cuestiones personales.
 Trabajé de cajera de un supermercado en mi adolescencia y luego, ya siendo alumna de la UBA, en el ingreso de datos en el laboratorio de Geofísica de la facultad.
 Lamenté mucho el dejar mis estudios universitarios y siempre fue una cuenta pendiente. Al ya ser mis hijos grandes, consideré que es buen momento para retomarlos y en el 2024 llegó el momento de hacerlo.
-Aquí estoy. Luego de un año, cursando Programación con Objetos I!!!!.
+Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
 
 ### Algo más...
 - Trabajo dando clases particulares de matemática.
