@@ -16,7 +16,7 @@ Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
 - Me gusta mucho escuchar música, fundamentalmente rock nacional.
 - Cuando tengo un tiempo libre me gusta leer y mirar películas.
 - Me encantaría vivir en El Bolsón o en San Martín de los Andes, los paisajes del sur de nuestro país son maravillosos.
-- También considero que Mar del Plata o alguna ciudad de la costa argentina son lindos lugares para vivir tranquila.
+- También considero que Mar del Plata o alguna ciudad de la costa atlántica son lindos lugares para vivir tranquila.
 - Tengo un perrito llamado Ozzy.
 - Soy fanática de los sahumerios, el café y el mate.
 - 
