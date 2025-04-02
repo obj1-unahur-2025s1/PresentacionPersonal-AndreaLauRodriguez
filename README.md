@@ -20,6 +20,4 @@ Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
 - Tengo un perrito llamado Ozzy.
 - Soy fanática de los sahumerios, el café y el mate.
 - 
-
-  
-![foto1](https://github.com/user-attachments/assets/673b74b1-2801-42aa-a834-5ab332552f42)
+  ![foto2bis](https://github.com/user-attachments/assets/bc37b38c-44fc-41ff-b4c3-30e8b8425148)
