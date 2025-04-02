@@ -19,5 +19,6 @@ Aquí estoy. Luego de un año, cursando Programación con Objetos I !!!!.
 - También considero que Mar del Plata o alguna ciudad de la costa atlántica son lindos lugares para vivir tranquila.
 - Tengo un perrito llamado Ozzy.
 - Soy fanática de los sahumerios, el café y el mate.
-- 
-  ![foto2bis](https://github.com/user-attachments/assets/bc37b38c-44fc-41ff-b4c3-30e8b8425148)
+-  ![foto1bis](https://github.com/user-attachments/assets/fa4995e6-4ba8-419e-9c9d-942f8a2984c4)
+  ![foto3](https://github.com/user-attachments/assets/7ede29b4-d446-4ecb-bd68-289c73120792)
+
