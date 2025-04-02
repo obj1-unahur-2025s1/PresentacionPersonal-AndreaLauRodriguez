@@ -17,4 +17,7 @@ Lamenté mucho el dejar mis estudios universitarios y siempre fue una cuenta pen
 - Me encantaría vivir en El Bolsón o en San Martín de los Andes, los paisajes del sur de nuestro país son maravillosos.
 - También considero que Mar del Plata o alguna ciudad de la costa argentina son lindos lugares para vivir tranquila.
 - Tengo un perrito llamado Ozzy.
+- Soy fanática de los sahumerios, el café y el mate.
+- 
+
   
